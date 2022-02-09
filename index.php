@@ -11,11 +11,12 @@
     <title>Git Mon projte</title>
   </head>
   <body>
+      <header>
     <h1>Git Mon projet</h1>
 
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark" aria-label="Fourth navbar example">
+    <nav class="navbar navbar-expand-md navbar-dark bg-primary" aria-label="Fourth navbar example">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Expand at md</a>
+      <a class="navbar-brand" href="#">Prjoet Git</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -29,7 +30,7 @@
             <a class="nav-link" href="#">Link</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
+            <a class="nav-link disabled">Q & A</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
@@ -49,13 +50,13 @@
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="imgs/beach.jpg" class="d-block w-100" alt="...">
+      <img src="imgs/beach.jpg" class="d-block w-100" alt="beach">
     </div>
     <div class="carousel-item">
-      <img src="imgs/lake.jpg" class="d-block w-100" alt="...">
+      <img src="imgs/lake.jpg" class="d-block w-100" alt="lake">
     </div>
     <div class="carousel-item">
-      <img src="imgs/mountain.jpg" class="d-block w-100" alt="...">
+      <img src="imgs/mountain.jpg" class="d-block w-100" alt="mountain">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -67,7 +68,15 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+</header>
+<main>
+<h2>Get Started</h2>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ab qui earum, delectus voluptate excepturi obcaecati nam perspiciatis aspernatur. Quia iusto doloremque fugiat reiciendis molestias quo cumque asperiores eos natus.</p>
 
+</main>
+<footer>
+    <p class="text-center"><strong>-----09/002/2022----</strong></p> 
+</footer>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
